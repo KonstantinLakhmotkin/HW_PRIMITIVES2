@@ -10,11 +10,10 @@ public class Main {
 
         int balance = startBalance + amount + bonus;    // итоговая сумма
 
-            System.out.println("Итоговый счет:" + balance + " руб."+ ", количество бонусов:" + bonus);
-
-
-        }
-
+        System.out.println("Итоговый счет:" + balance + " руб." + ", количество бонусов:" + bonus);
 
 
     }
+
+
+}
